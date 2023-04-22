@@ -1,6 +1,55 @@
-# Getting Started with Create React App
+<!-- Created by ★ Hemant ★ -->
+# chat-web-app.github.io
+<hr/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [React.js🚀](https://github.com/facebook/create-react-app).
+and [Chat Engine🔥](https://chatengine.io/)
+<br/>
+
+## ⭐ Introduction
+
+This is a Chat Application that allows users to chat with each other in real time.
+<br/>
+In this Web Application, I used React.js, Sockets and Chat engine which allows complete customization of absolutely any part of the chat application.
+- Users are able to create their seperate chat room.
+- Users can invite new user by sharing their chat room link.
+- Users are able to send images, files through this chat application.
+- Users are able to rejoin the chat room once he/she join room as their data is stored in local storage, etc.
+and more...
+I hope you like it!
+<br/>
+<hr/>
+
+## 🔨 Tools Used
+
+<p align="justify">
+<img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
+<img height="140" width="140" src="https://logodix.com/logo/470309.png">
+<img height="140" width="140" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+<img height="140" width="140" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
+<img height="140" width="140" src="https://picstatio.com/download/1280x1024/uhzu5z/reactJS-wallpaper.png">
+</p>
+
+-  Version Control System: Git
+-  VCS Hosting: GitHub, Netlify
+-  Front-End: JAVASCRIPT, Ant-design-icons ,React.js
+-  Integrated Development Environment: VSCode
+<br/>
+<hr/>
+
+## 🔗 Links
+
+> ##💁‍♂️ Checkout the Website [chat-web-app.github.io](https://chats-web-app.netlify.app/)
+>
+<br/>
+<hr/>
+
+## 💻Available Screens
+
+#### Desktop Version
+#### Mobile Version
+<br/>
+<hr/>
 
 ## Available Scripts
 
@@ -29,26 +78,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
@@ -57,14 +86,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://chats-web-app.netlify.app/](https://chats-web-app.netlify.app/)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br/>
+<hr/>
+
+## Learn More
+
+-You can learn more in the [Create React App documentation](https://  facebook.github.io/create-react-app/docs/getting-started).
+
+-To learn React, check out the [React documentation](https://reactjs.org/).
+- Enjoy👍 :)
+<br/>
+<hr/>
+<br/>
+
+## 🐦 Follow Me:
+
+> [Twitter](https://twitter.com/HemantkEtc116)
+
+> [LinkedIn](https://www.linkedin.com/in/hemant-kumbhalkar-87393b235/)
+
+> [Sololearn](https://www.sololearn.com/profile/24572821)
+
+I hope you like the project. Thanks for reading🙋:)
+<hr/>
+<br/>
